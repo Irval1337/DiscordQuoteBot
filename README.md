@@ -16,3 +16,5 @@
 
 ### Пример работы
 ![image](https://user-images.githubusercontent.com/56792892/176447727-20743982-61b5-4970-a928-9ab879fb018e.png)
+
+###### При поддержке форума SMM продвижения в социальных сетях - DataStock.biz.
